@@ -1,6 +1,8 @@
-<img align="right" src="/icons/logo.png" width="200">
+<img align="right" src="/icons/logo.png" width="100">
 <h1>MasterPlan</h1>
 An automatic event scheduling desktop application.
+
+-----------------
 
 ### Run Instructions:
 *Python 3.7 (or higher, but not tested) is required*
