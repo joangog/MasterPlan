@@ -1,4 +1,4 @@
-<img align="right" src="/icons/logo.png" width="100">
+<img align="right" src="/icons/logo.png" width="110">
 <h1>MasterPlan</h1>
 An automatic event scheduling desktop application.
 
