@@ -31,7 +31,7 @@ An automatic event scheduling desktop application.
 <br>
 5. Clicking the search button on the right opens a search window that can be used to search for an event from the event list.
 
-<br>
+<br><br>
 
 ### Grid View Instructions:
 <img align="left" src="/screenshots/grid_view.png" width="450">
@@ -45,7 +45,7 @@ An automatic event scheduling desktop application.
 <br>
 5. Select a filter using the filter drop down menu.
 
-<br><br>
+<br>
 
 ### Calendar View Instructions:
 <img align="left" src="/screenshots/calendar_view.png" width="450">
@@ -61,7 +61,7 @@ An automatic event scheduling desktop application.
 <br>
 6. Select a range for the calendar to be downloaded and click "ok" and then "yes". *(Currently no downloading happens)*
 
-<br>
+<br><br>
 
 ### Edit Mode Instructions (Admin):
 <img align="left" src="/screenshots/admin.png" width="450">
