@@ -43,7 +43,7 @@ An automatic event scheduling desktop application.
 <br>
 5. Select a filter using the filter drop down menu.
 
-<br><br><br><br>
+<br><br><br>
 
 ### Calendar View Instructions:
 <img align="left" src="/screenshots/calendar_view.png" width="450">
@@ -59,7 +59,7 @@ An automatic event scheduling desktop application.
 <br>
 6. Select a range for the calendar to be downloaded and click "ok" and then "yes". *(Currently no downloading happens)*
 
-<br><br>
+<br>
 
 ### Edit Mode Instructions (Admin):
 <img align="left" src="/screenshots/admin.png" width="450">
