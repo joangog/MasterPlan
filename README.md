@@ -4,6 +4,8 @@ An automatic event scheduling desktop application.
 
 -----------------
 
+<br>
+
 ### Run Instructions:
 *Python 3.7 (or higher, but not tested) is required*
 1. Run `pip install PySide2` (make sure it is installed on the python installation that will be used to build the project).
