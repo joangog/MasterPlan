@@ -45,7 +45,7 @@ An automatic event scheduling desktop application.
 <br>
 5. Select a filter using the filter drop down menu.
 
-<br>
+<br><br>
 
 ### Calendar View Instructions:
 <img align="left" src="/screenshots/calendar_view.png" width="450">
