@@ -14,7 +14,7 @@ An automatic event scheduling desktop application.
 *In case there is a problem with installing the required libraries we included a demonstrative video of all the implemented functions in the main repos folder.*
 
 ### Log In Instructions:
-<img align="left" src="/screenshots/login.png" width="500">
+<img align="left" src="/screenshots/login.png" width="400">
 1. Enter organization using example organization "upatras".
 <br>
 2. There are two possible actions:
@@ -32,7 +32,7 @@ An automatic event scheduling desktop application.
 <br><br><br><br>
 
 ### Grid View Instructions:
-<img align="left" src="/screenshots/grid_view.png" width="500">
+<img align="left" src="/screenshots/grid_view.png" width="400">
 1. In Grid View select the building to enter from the grid.
 <br>
 2. After the rooms load in the grid, select a blue room to see its current event information. If the room is grey, there is currently no event being held.
@@ -46,7 +46,7 @@ An automatic event scheduling desktop application.
 <br><br><br><br><br>
 
 ### Calendar View Instructions:
-<img align="left" src="/screenshots/calendar_view.png" width="500">
+<img align="left" src="/screenshots/calendar_view.png" width="400">
 1. In Calendar View select a blue date from the calendar to see the events scheduled for that day. If the date is gray, there is no event scheduled for that day yet. Default date selected is today's date.
 <br>
 2. After selecting a date, double click an event from the list in the right to see its information.
@@ -62,7 +62,7 @@ An automatic event scheduling desktop application.
 <br><br><br>
 
 ### Edit Mode Instructions (Admin):
-<img align="left" src="/screenshots/admin.png" width="500">
+<img align="left" src="/screenshots/admin.png" width="400">
 1. On the Event List choose to Create Organizer.
 <br>
 2. On the pop-up Window type the name and email address for the new Organizer and finalize your action by clicking OK.
@@ -87,7 +87,7 @@ An automatic event scheduling desktop application.
 *If you are following these instructions after following the previous ones as admin, you could login as the new organizer you created previously.*
 <br>
 
-<img align="left" src="/screenshots/organizer.png" width="500">
+<img align="left" src="/screenshots/organizer.png" width="400">
 1. Select an event on the Event List. The constraints corresponding to the chosen event appear on the Event Details section.  
 <br>
 2. In the Time Constraint field select the add button.
