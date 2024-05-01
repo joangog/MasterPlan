@@ -13,6 +13,8 @@ An automatic event scheduling desktop application.
 
 *In case there is a problem with installing the required libraries we included a demonstrative video of all the implemented functions in the main repos folder.*
 
+<br>
+
 ### Log In Instructions:
 <img align="left" src="/screenshots/login.png" width="450">
 1. Enter organization using example organization "upatras".
@@ -43,7 +45,7 @@ An automatic event scheduling desktop application.
 <br>
 5. Select a filter using the filter drop down menu.
 
-<br>
+<br><br>
 
 ### Calendar View Instructions:
 <img align="left" src="/screenshots/calendar_view.png" width="450">
@@ -81,7 +83,7 @@ An automatic event scheduling desktop application.
 <br>
 9. At this point you can click Execute Scheduling to run the scheduling algorithm and create a new schedule for all events. *This step exposes a known bug that removes the organizers' association with all events and should be skipped for the following instructions to run smoothly!*
 
-<br><br><br>
+<br><br>
 
 ### Edit Mode Instructions (Organizer):
 *If you are following these instructions after following the previous ones as admin, you could login as the new organizer you created previously.*
